@@ -1,0 +1,5 @@
+name,password,email,failed_login_attemps,role
+Michel,mdp1,michel@mail.com,0,admin
+Geraldine,mdp2,geraldine@mail.com,0,user
+Hugo,mdp3,hugo@mail.com,0,user
+Lisa,mdp4,lisa@mail.com,0,user
